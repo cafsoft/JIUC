@@ -1,9 +1,4 @@
 {
-	"Description" : "Este archivo es consultado por la App movil Tu Progreso para saber si se requiere que el usuario descargue una nueva versión",
-	"iOS" : [
-	],
-	"Android" : [
-		"1.1.6", 
-		"1.1.7 Beta 1"
-	]
+	"description" : "Este archivo es consultado por la App móvil para saber si es necesario que el usuario descargue una nueva versión",
+	"versions" : ["1.1.6", "1.1.7 Beta 1"]
 }
