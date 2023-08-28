@@ -26,7 +26,7 @@ La seguridad y privacidad de nuestros usuarios son fundamentales, esta política
 - Nuestro equipo está comprometido con la seguridad y sigue estrictamente esta política.
 
 ## 9. Contacto de Seguridad:
-- Si tienes consultas sobre la seguridad de la aplicación, comunícate con nosotros en [correo-electronico-de-contacto](mailto:cafsoft@gmail.com).
+- Si tienes consultas sobre la seguridad de la aplicación, comunícate con nosotros en [cafsoft@gmail.com](mailto:cafsoft@gmail.com).
 
 ## 10. Revisión y Actualización:
 - Revisaremos periódicamente esta política de seguridad para asegurar su precisión y relevancia.
